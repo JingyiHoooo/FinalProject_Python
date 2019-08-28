@@ -12,4 +12,6 @@ downloading Ebike files: **EBike.ipynb**
 
 plotting to find the relationship between human-health related variables and Human Power: **DataPlotting.ipynb**
 
-I wrote the separate code for downloading each inserted data file is because it is handier to debug if there is any exception occurs.
+## I wrote the separate code for downloading each inserted data file is because it is handier to debug if there is any exception occurs.
+
+All the csv file is used to unterstanding the data processing steps and the format.

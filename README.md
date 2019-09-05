@@ -14,4 +14,8 @@ plotting to find the relationship between human-health related variables and Hum
 
 ## I wrote the separate code for downloading each inserted data file is because it is handier to debug if there is any exception occurs.
 
-All the csv file is used to unterstanding the data processing steps and the format.
+
+Draft Q-learning code: **QLearning.ipynb**
+
+## This code builds an initialized Q-table and gives an idea about how to mark the reward for each action as well as how to get the next state.
+
